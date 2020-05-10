@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7363d23-2a05-43a7-a977-a483ebe0b670" name="Default Changelist" comment="">
+    <list default="true" id="e7363d23-2a05-43a7-a977-a483ebe0b670" name="Default Changelist" comment="t">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +24,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,17 +57,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589102290410</updated>
-      <workItem from="1589102292537" duration="4417000" />
+      <workItem from="1589102292537" duration="8640000" />
     </task>
+    <task id="LOCAL‎00001" summary="t">
+      <created>1589120510372</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1589120510372</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="t" />
+    <option name="LAST_COMMIT_MESSAGE" value="t" />
   </component>
   <component name="WindowStateProjectService">
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589102748228">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1589102748228" />
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1589124731885">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1589124731885" />
+    <state x="434" y="208" key="Github.CreatePullRequestDialog" timestamp="1589124521220">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="434" y="208" key="Github.CreatePullRequestDialog/0.0.1280.680@0.0.1280.680" timestamp="1589124521220" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1589124693747">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1589124693747" />
   </component>
 </project>

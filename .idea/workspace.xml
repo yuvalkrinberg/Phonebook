@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7363d23-2a05-43a7-a977-a483ebe0b670" name="Default Changelist" comment="t">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/jslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FileForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Person.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PersonsList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/persons.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,11 +35,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.eslintrc" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner\Documents\לימודים\React\Course fullstack\untitled" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -48,7 +67,7 @@
     </configuration>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Owner\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,6 +77,11 @@
       <option name="presentableId" value="Default" />
       <updated>1589102290410</updated>
       <workItem from="1589102292537" duration="8640000" />
+      <workItem from="1589899069142" duration="103000" />
+      <workItem from="1589899193600" duration="1854000" />
+      <workItem from="1589901076402" duration="591000" />
+      <workItem from="1589901693252" duration="172000" />
+      <workItem from="1589901880622" duration="13028000" />
     </task>
     <task id="LOCAL‎00001" summary="t">
       <created>1589120510372</created>
@@ -73,9 +97,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="t" />
-    <option name="LAST_COMMIT_MESSAGE" value="t" />
+    <MESSAGE value="phonebook&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="phonebook&#10;" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#ESLint" timestamp="1589902278182">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#ESLint/0.0.1280.680@0.0.1280.680" timestamp="1589902278182" />
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589102748228">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -84,13 +113,69 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1589124731885" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1589534345339">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1589534345339" />
+    <state x="546" y="179" key="FileChooserDialogImpl" timestamp="1589902006077">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="546" y="179" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589902006077" />
+    <state x="463" y="257" key="Github.CreateGistDialog" timestamp="1589971386155">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="463" y="257" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1589971386155" />
     <state x="434" y="208" key="Github.CreatePullRequestDialog" timestamp="1589124521220">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="434" y="208" key="Github.CreatePullRequestDialog/0.0.1280.680@0.0.1280.680" timestamp="1589124521220" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1589124693747">
+    <state x="511" y="234" key="Github.ShareDialog" timestamp="1589971325861">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1589124693747" />
+    <state x="511" y="234" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1589971325861" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1589904343165">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589904343165" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1589904343165">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589904343165" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1589904343164">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589904343164" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1589904343165">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589904343165" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1589965889568">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589965889568" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1589971298108">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1589971298108" />
+    <state x="100" y="126" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1589534863458">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="100" y="126" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1589534863458" />
+    <state x="41" y="108" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589903339033">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="41" y="108" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1589903339033" />
+    <state x="336" y="72" width="609" height="536" key="find.popup" timestamp="1589898039085">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="72" width="609" height="536" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1589898039085" />
+    <state x="471" y="132" key="svn.repositoryBrowser" timestamp="1589534251707">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="471" y="132" key="svn.repositoryBrowser/0.0.1280.680@0.0.1280.680" timestamp="1589534251707" />
+    <state x="385" y="116" key="svn4idea.import.options" timestamp="1589534244913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="385" y="116" key="svn4idea.import.options/0.0.1280.680@0.0.1280.680" timestamp="1589534244913" />
   </component>
 </project>

@@ -1,1 +1,1 @@
-#React application exercise 1
+#React application exercise
